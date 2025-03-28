@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Encapsulation-Record": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

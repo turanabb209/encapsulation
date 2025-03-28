@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ewVYqE6cCYk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dersu\\OneDrive\\Desktop\\Encapsulation\\Encapsulation-Record\\Encapsulation-Record.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dersu\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}

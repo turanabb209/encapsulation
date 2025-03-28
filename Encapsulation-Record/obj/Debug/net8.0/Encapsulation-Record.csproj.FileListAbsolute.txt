@@ -1,0 +1,14 @@
+C:\Users\dersu\OneDrive\Desktop\Encapsulation\Encapsulation-Record\obj\Debug\net8.0\Encapsulation-Record.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dersu\OneDrive\Desktop\Encapsulation\Encapsulation-Record\obj\Debug\net8.0\Encapsulation-Record.AssemblyInfoInputs.cache
+C:\Users\dersu\OneDrive\Desktop\Encapsulation\Encapsulation-Record\obj\Debug\net8.0\Encapsulation-Record.AssemblyInfo.cs
+C:\Users\dersu\OneDrive\Desktop\Encapsulation\Encapsulation-Record\obj\Debug\net8.0\Encapsulation-Record.csproj.CoreCompileInputs.cache
+C:\Users\dersu\OneDrive\Desktop\Encapsulation\Encapsulation-Record\bin\Debug\net8.0\Encapsulation-Record.exe
+C:\Users\dersu\OneDrive\Desktop\Encapsulation\Encapsulation-Record\bin\Debug\net8.0\Encapsulation-Record.deps.json
+C:\Users\dersu\OneDrive\Desktop\Encapsulation\Encapsulation-Record\bin\Debug\net8.0\Encapsulation-Record.runtimeconfig.json
+C:\Users\dersu\OneDrive\Desktop\Encapsulation\Encapsulation-Record\bin\Debug\net8.0\Encapsulation-Record.dll
+C:\Users\dersu\OneDrive\Desktop\Encapsulation\Encapsulation-Record\bin\Debug\net8.0\Encapsulation-Record.pdb
+C:\Users\dersu\OneDrive\Desktop\Encapsulation\Encapsulation-Record\obj\Debug\net8.0\Encapsulation-Record.dll
+C:\Users\dersu\OneDrive\Desktop\Encapsulation\Encapsulation-Record\obj\Debug\net8.0\refint\Encapsulation-Record.dll
+C:\Users\dersu\OneDrive\Desktop\Encapsulation\Encapsulation-Record\obj\Debug\net8.0\Encapsulation-Record.pdb
+C:\Users\dersu\OneDrive\Desktop\Encapsulation\Encapsulation-Record\obj\Debug\net8.0\Encapsulation-Record.genruntimeconfig.cache
+C:\Users\dersu\OneDrive\Desktop\Encapsulation\Encapsulation-Record\obj\Debug\net8.0\ref\Encapsulation-Record.dll
