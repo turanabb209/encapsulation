@@ -13,12 +13,12 @@ namespace Encapsulation_Record
             product.Model = "Iphone13";
             product.Price = 1500.0;
             product.Cost = 1000.0;
-            product.Count =4;
+            product.Count =8;
 
            // product.GetInfo();
 
 
-            product.Sale(3);
+            product.Sale(8);
 
            
          
@@ -170,7 +170,7 @@ namespace Encapsulation_Record
                 Income += (Price - Cost) * n;
                 Count -= n;
 
-                
+                Console.WriteLine("income :"+ Income); 
             }
             else
             {

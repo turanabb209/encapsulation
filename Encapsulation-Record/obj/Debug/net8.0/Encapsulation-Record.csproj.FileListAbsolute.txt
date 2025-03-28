@@ -12,3 +12,4 @@ C:\Users\dersu\OneDrive\Desktop\Encapsulation\Encapsulation-Record\obj\Debug\net
 C:\Users\dersu\OneDrive\Desktop\Encapsulation\Encapsulation-Record\obj\Debug\net8.0\Encapsulation-Record.pdb
 C:\Users\dersu\OneDrive\Desktop\Encapsulation\Encapsulation-Record\obj\Debug\net8.0\Encapsulation-Record.genruntimeconfig.cache
 C:\Users\dersu\OneDrive\Desktop\Encapsulation\Encapsulation-Record\obj\Debug\net8.0\ref\Encapsulation-Record.dll
+C:\Users\dersu\OneDrive\Desktop\Encapsulation\Encapsulation-Record\obj\Debug\net8.0\Encapsulation-Record.sourcelink.json
